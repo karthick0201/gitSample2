@@ -1,0 +1,15 @@
+local la file create and add to main :
+---------------------------------
+
+1. Change Directory:
+        - convert to git repo 
+2. create repo - github
+
+3. link origin to this project
+
+4. learn master and main
+
+5. push to github
+
+
+thss is bus txt file
