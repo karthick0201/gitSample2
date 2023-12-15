@@ -14,6 +14,10 @@ local la file create and add to main :
 
 thss is bus txt file
 
+
+
+changing... 
+
 PS E:\Docunments\Pratice - General\GitLearning v1\gitPratice\gitLearn2> git push origin main
 error: src refspec main does not match any
 error: failed to push some refs to 'origin'
